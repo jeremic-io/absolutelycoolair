@@ -220,7 +220,7 @@
 		</section>
   </div>
   <footer class="main-footer">
-    <div class="copyright" style="text-align: left;">
+    <div class="copyright" style="text-align: right;">
       &copy; 2016 and beyond. Design by: <a href="http://www.vennwebservices.com/"><img src="images/venn.png" alt="venn logo" style="position:relative;top:-5px;" />vennwebservice.com</a>
     </div>
   </footer>
