@@ -221,7 +221,7 @@
   </div>
   <footer class="main-footer">
     <div class="copyright">
-      Absolutely Cool Air Conditioning. &copy; All rights reserved 2016.
+      Absolutely Cool Air Conditioning. &copy; All rights reserved. Copyrighted 2016 and beyond. Developing and Design by: <a href="vennwebservice.com"><img src="images/venn.png" alt="venn logo" style="position:relative;top:-5px;" />vennwebservice.com</a>
     </div>
   </footer>
 
