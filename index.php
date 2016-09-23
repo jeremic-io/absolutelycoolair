@@ -220,8 +220,8 @@
 		</section>
   </div>
   <footer class="main-footer">
-    <div class="copyright">
-      Absolutely Cool Air Conditioning. &copy; All rights reserved. Copyrighted 2016 and beyond. Developing and Design by: <a href="http://www.vennwebservices.com/"><img src="images/venn.png" alt="venn logo" style="position:relative;top:-5px;" />vennwebservice.com</a>
+    <div class="copyright" style="text-align: left;">
+      &copy; 2016 and beyond. Design by: <a href="http://www.vennwebservices.com/"><img src="images/venn.png" alt="venn logo" style="position:relative;top:-5px;" />vennwebservice.com</a>
     </div>
   </footer>
 
